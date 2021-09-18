@@ -1,6 +1,8 @@
 ## Hi I'm Eric
 I am  a Computer Science student seeking to become a game developer.
 
+### Connect With Me
+- [<img align="left" width="32px" height="32px" src="images/icons/itchio.png"/>] itch.io page[itchio]
 
 ### Languages And Tools
 [<img align="left" width="64px" height="64px" src="images/icons/unity.png"/>][unity]
@@ -10,6 +12,8 @@ I am  a Computer Science student seeking to become a game developer.
 [<img align="left" width="64px" height="64px" src="images/icons/c.svg"/>][c]
 
 
+<!-- Links to social medias -->
+[itchio]: https://ericgomes.itch.io/
 
 <!-- Links to Technologies -->
 [unity]: https://docs.unity3d.com/Manual/index.html
