@@ -2,14 +2,15 @@
 I am  a Computer Science student seeking to become a game developer.
 
 ### Connect With Me
-[<img align="left" width="64px" height="64px" src="images/icons/itchio.png"/>][itchio]
+- My Itch.io page [<img align="left" width="32px" height="32px" src="images/icons/itchio.png"/>][itchio]
+
 
 ### Languages And Tools
-[<img align="left" width="64px" height="64px" src="images/icons/unity.png"/>][unity]
-[<img align="left" width="64px" height="64px" src="images/icons/unreal.png"/>][unreal]
-[<img align="left" width="64px" height="64px" src="images/icons/csharp.svg"/>][csharp]
-[<img align="left" width="64px" height="64px" src="images/icons/cpp.svg"/>][cpp]
-[<img align="left" width="64px" height="64px" src="images/icons/c.svg"/>][c]
+[<img align="left" width="32px" height="32px" src="images/icons/unity.png"/>][unity]
+[<img align="left" width="32px" height="32px" src="images/icons/unreal.png"/>][unreal]
+[<img align="left" width="32px" height="32px" src="images/icons/csharp.svg"/>][csharp]
+[<img align="left" width="32px" height="32px" src="images/icons/cpp.svg"/>][cpp]
+[<img align="left" width="32px" height="32px" src="images/icons/c.svg"/>][c]
 
 
 <!-- Links to social medias -->
