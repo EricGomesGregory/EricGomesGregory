@@ -2,7 +2,7 @@
 I am  a Computer Science student seeking to become a game developer.
 
 ### Connect With Me
-- [<img align="left" width="32px" height="32px" src="images/icons/itchio.png"/>][itchio]
+[<img align="left" width="64px" height="64px" src="images/icons/itchio.png"/>][itchio]
 
 ### Languages And Tools
 [<img align="left" width="64px" height="64px" src="images/icons/unity.png"/>][unity]
