@@ -16,7 +16,7 @@ I am  a Computer Science student seeking to become a game developer.
 [<img align="left" width="64px" height="64px" src="images/icons/csharp.svg"/>][csharp]
 [<img align="left" width="64px" height="64px" src="images/icons/cpp.svg"/>][cpp]
 [<img align="left" width="64px" height="64px" src="images/icons/c.svg"/>][c]
-[<img align="left" width="64px" height="64px" src="images/icons/python.svg"/>][pyhon]
+[<img align="left" width="64px" height="64px" src="images/icons/python.png"/>][python]
 
 <!-- Links to social medias -->
 [itchio]: https://ericgomes.itch.io/
