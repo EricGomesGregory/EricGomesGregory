@@ -3,7 +3,7 @@ I am  a Computer Science student seeking to become a game developer.
 
 ### Connect With Me
 [<img align="left" width="64px" height="64px" src="images/icons/itchio.png"/>][itchio]
-[<img align="left" width="72px" height="64px" src="images/icons/linkedin.png"/>][linkedin]
+[<img align="left" width="75px" height="64px" src="images/icons/linkedin.png"/>][linkedin]
 
 
 <br />
