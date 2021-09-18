@@ -3,7 +3,7 @@ I am  a Computer Science student seeking to become a game developer.
 
 
 ### Languages And Tools
-[<img align="left" width="64px" height="64px" src="images/icons/unity.svg" />][unity]
+[<img align="left" width="64px" height="64px" src="images/icons/unity.png" />][unity]
 [<img align="left" width="64px" height="64px" src="images/icons/unrealrengine.svg" />][unreal4]
 [<img align="left" width="64px" height="64px" src="images/icons/csharp.svg" />][csharp]
 [<img align="left" width="64px" height="64px" src="images/icons/cpp.svg" />][cpp]
