@@ -28,4 +28,4 @@ ___
 [linkedin]: https://www.linkedin.com/in/eric-gregory-16a502183/
 
 <!-- Links to github stats -->
-[userstats]: https://github-readme-stats.vercel.app/api?username=EricGomesGregory&show_icons=true&theme=dark&hide_border=true
+[userstats]: https://github-readme-stats.vercel.app/api?username=EricGomesGregory&show_icons=true&bg_color=#1C00ff00&hide_border=true
