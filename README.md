@@ -13,7 +13,7 @@ ___
 ![Eric Gomes Gregory's GitHub stats][userstats]
 
 
-[![Top Langs][userlangs](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs][userlangs]
 
 
 <br />
@@ -34,4 +34,4 @@ ___
 
 <!-- Links to github stats -->
 [userstats]: https://github-readme-stats.vercel.app/api?username=EricGomesGregory&show_icons=true&theme=github_dark&hide_border=true
-[userlangs]: https://github-readme-stats.vercel.app/api/top-langs/?username=EricGomesGregory&layout=compact)]
+[userlangs]: https://github-readme-stats.vercel.app/api/top-langs/?username=EricGomesGregory&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
