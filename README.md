@@ -9,6 +9,7 @@ I am  a Computer Science student seeking to become a game developer.
 <br />
 <br />
 
+___
 ![Eric Gomes Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricGomesGregory&hide=contribs,prs)
 
 <br />
