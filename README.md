@@ -10,7 +10,8 @@ I am  a Computer Science student seeking to become a game developer.
 <br />
 
 ___
-![Eric Gomes Gregory's GitHub stats][userstats]
+[![Eric Gomes Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricGomesGregory&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricGomesGregory&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
