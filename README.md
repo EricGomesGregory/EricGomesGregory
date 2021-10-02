@@ -2,19 +2,18 @@
 I am  a Computer Science student seeking to become a game developer.
 
 ### Connect With Me
-[<img align="left" width="64px" height="64px" src="images/icons/itchio.svg"/>][itchio]{:target="_blank"}
-[<img align="left" width="64px" height="64px" src="images/icons/linkedin.svg"/>][linkedin]{:target="_blank"}
+[<img align="left" width="64px" height="64px" src="images/icons/itchio.svg"/>][itchio]
+[<img align="left" width="64px" height="64px" src="images/icons/linkedin.svg"/>][linkedin]
 
 
 <br />
 <br />
 
 ___
-[![Eric Gomes Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricGomesGregory&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Eric Gomes Gregory's GitHub stats][userstats]
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricGomesGregory&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs][userlangs]
 
 
 
@@ -36,3 +35,4 @@ ___
 
 <!-- Links to github stats -->
 [userstats]: https://github-readme-stats.vercel.app/api?username=EricGomesGregory&show_icons=true&theme=github_dark&hide_border=true
+[userlangs]: https://github-readme-stats.vercel.app/api/top-langs/?username=EricGomesGregory&layout=compact&theme=github_dark&hide_border=true
