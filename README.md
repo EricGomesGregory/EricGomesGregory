@@ -2,8 +2,8 @@
 I am  a Computer Science student seeking to become a game developer.
 
 ### Connect With Me
-[<img align="left" width="64px" height="64px" src="images/icons/itchio.svg"/>][itchio]
-[<img align="left" width="64px" height="64px" src="images/icons/linkedin.svg"/>][linkedin]
+[<img align="left" width="64px" height="64px" src="images/icons/itchio.svg"/>][itchio]{:target="_blank"}
+[<img align="left" width="64px" height="64px" src="images/icons/linkedin.svg"/>][linkedin]{:target="_blank"}
 
 
 <br />
