@@ -22,12 +22,12 @@ ___
 
 
 ### Languages And Tools
-<img align="left" width="64px" height="64px" src="images/icons/unity.png"/>
-<img align="left" width="64px" height="64px" src="images/icons/unreal.png"/>
+<img align="left" width="64px" height="64px" src="images/icons/unity.svg"/>
+<img align="left" width="64px" height="64px" src="images/icons/unreal.svg"/>
 <img align="left" width="64px" height="64px" src="images/icons/csharp.svg"/>
 <img align="left" width="64px" height="64px" src="images/icons/cpp.svg"/>
 <img align="left" width="64px" height="64px" src="images/icons/c.svg"/>
-<img align="left" width="70px" height="70px" src="images/icons/python.png"/>
+<img align="left" width="70px" height="70px" src="images/icons/python.svg"/>
 
 <!-- Links to social medias -->
 [itchio]: https://ericgomes.itch.io/
