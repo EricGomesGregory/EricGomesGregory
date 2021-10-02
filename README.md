@@ -9,15 +9,12 @@ I am  a Computer Science student seeking to become a game developer.
 <br />
 <br />
 
-<div align="center">
-
 ___
 ![Eric Gomes Gregory's GitHub stats][userstats]
 
 
 ![Top Langs][userlangs]
 
-<div/>
 
 <br />
 <br />
