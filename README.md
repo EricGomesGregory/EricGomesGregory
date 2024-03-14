@@ -29,7 +29,6 @@ Lets talk! I'm open to talk, discuss and most important of all help!
   <a href="https://ericgomes.itch.io" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch-io&logo=itch.io&label=&color=fa5c5c&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
-  <a onclick="window.open(this.href,'_blank');return false;" href="https://ericgomes.itch.io">Some Other Site</a>
 </div>
 
 <br/>
