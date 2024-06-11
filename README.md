@@ -64,7 +64,8 @@ I'm also working on my spare time with some web/desktop technologies in my spare
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="64" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="64" alt="rust logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="64" alt="rust logo"  /> -->
+  <img src="assets/rust-original.svg" height="64" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="64" alt="blender logo"  />
 </div>
