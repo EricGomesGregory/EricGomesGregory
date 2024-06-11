@@ -43,7 +43,8 @@ I have worked professionally with the following programming languages and tools.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="64" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="64" alt="unrealengine logo" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="64" alt="unrealengine logo" /> -->
+  <img src="unrealengine-original.svg" height="64" alt="unrealengine logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="64" alt="csharp logo" />
   <img width="12" />
